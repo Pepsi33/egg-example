@@ -1,0 +1,8 @@
+2018-05-10 16:43:18,537 INFO 73570 [Timer] /Users/pepsi/WorkSpace/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-11 00:00:00.000
+2018-05-10 16:43:18,538 INFO 73570 [Timer] /Users/pepsi/WorkSpace/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-11 00:00:01.000
+2018-05-10 17:00:43,378 INFO 73634 [Timer] /Users/pepsi/WorkSpace/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-11 00:00:00.000
+2018-05-10 17:00:43,379 INFO 73634 [Timer] /Users/pepsi/WorkSpace/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-11 00:00:01.000
+2018-05-10 17:24:12,169 INFO 73714 [Timer] /Users/pepsi/WorkSpace/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-11 00:00:00.000
+2018-05-10 17:24:12,169 INFO 73714 [Timer] /Users/pepsi/WorkSpace/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-11 00:00:01.000
+2018-05-10 17:25:29,437 INFO 73721 [Timer] /Users/pepsi/WorkSpace/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-11 00:00:00.000
+2018-05-10 17:25:29,437 INFO 73721 [Timer] /Users/pepsi/WorkSpace/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-11 00:00:01.000
